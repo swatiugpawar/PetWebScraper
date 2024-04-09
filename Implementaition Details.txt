@@ -1,0 +1,3 @@
+Following packages installed to get the scraped list of records , also the data stor use is Excel to import the list form search results.
+
+User Third part Nuget packages to get the search CsvHelper ,Html Agility Pack, HtmlAgilityPack.CssSelectors
